@@ -1,0 +1,78 @@
+SN,Province,District,Total Population,Number of positive cases,Total sample collected,Test remaining,Total test performed,% positive,Risk value % positive cases,Number of isolation beds, weekly average cases ( previous2 weeks),required isolation beds,Available beds,Gap to reach the need,Value for Gap of isolation beds,weekly transmission rate (Rt),Risk value to Rt, cumulative IncidenceIncidence/10000,Risk Value to incidence,districts with extent movement (geography),value of risk to as per location and movement,total risk,Risk level,"Colour code for risk (low risk, moderate risk, high risk and very high risk"
+1,Province 1,Jhapa,920895,200,4957,26,4931,4.0559724193875,0.5,27,60,61.5,27,34.5,1,1.77,0.67,2.1718002595301,0.75,direct movement to India,1.0,0.784,very high risk,deep red
+2,Province 1,Morang,1087721,131,4202,4,4198,3.1205335874226,0.5,133,94,96.35,133,-36.65,0,1.69,0.67,1.2043529544801,0.5,direct movement to India,1.0,0.534,high risk,light red
+3,Province 1,Sunsari,906043,67,2967,132,2835,2.363315696649,0.5,104,30,30.75,104,-73.25,0,0.8200000000000001,0.33,0.73947925208848,0.5,direct movement to India,1.0,0.466,moderate risk,yellow
+4,Province 1,Dhankuta,170803,8,732,44,688,1.1627906976744,0.25,12,0,0.0,12,-12.0,0,N/A,0.5,0.46837584819939,0.5,hill and low movement,0.5,0.35000000000000003,low risk,green
+5,Province 1,Bhojpur,156949,6,284,47,237,2.5316455696203,0.5,13,0,0.0,13,-13.0,0,N/A,0.5,0.38228978840260003,0.5,hill and low movement,0.5,0.4,moderate risk,yellow
+6,Province 1,Khotang,175334,4,316,103,213,1.8779342723005001,0.5,5,0,0.0,5,-5.0,0,2,0.67,0.22813601469196,0.25,hill and low movement,0.5,0.384,moderate risk,yellow
+7,Province 1,Udayapur,354466,55,3082,482,2600,2.1153846153846,0.5,15,13,13.325,15,-1.675,0,N/A,0.5,1.5516297754933,0.5,hill and low movement,0.5,0.4,moderate risk,yellow
+8,Province 1,Solukhumbu,102517,1,108,88,20,5,0.75,29,0,0.0,29,-29.0,0,N/A,0.5,0.09754479744822801,0.25,mountain and very low moovement,0.25,0.35000000000000003,low risk,green
+9,Province 1,Sankhuwasabha,156064,2,108,8,100,2,0.5,20,0,0.0,20,-20.0,0,N/A,0.5,0.12815255279885,0.25,mountain and very low moovement,0.25,0.30000000000000004,low risk,green
+10,Province 1,Terhathum,100821,3,564,29,535,0.5607476635514,0.25,14,2,2.05,14,-11.95,0,N/A,0.5,0.2975570565656,0.25,hill and low movement,0.5,0.30000000000000004,low risk,green
+11,Province 1,Ilam,310944,2,738,89,649,0.30816640986133,0.25,11,3,3.075,11,-7.925,0,N/A,0.5,0.064320263455799,0.25,direct movement to India,1.0,0.4,moderate risk,yellow
+12,Province 1,Panchthar,196878,3,322,29,293,1.0238907849829,0.25,23,1,1.025,23,-21.975,0,N/A,0.5,0.15237863042087,0.25,direct movement to India,1.0,0.4,moderate risk,yellow
+13,Province 1,Taplejung,130649,4,154,14,140,2.8571428571429003,0.5,11,3,3.075,11,-7.925,0,N/A,0.5,0.30616384358089,0.25,mountain and very low moovement,0.25,0.30000000000000004,low risk,green
+14,Province 1,Okhaldhunga,151414,1,70,0,70,1.4285714285714,0.25,11,3,3.075,11,-7.925,0,1,0.33,0.066044091035175,0.25,hill and low movement,0.5,0.266,low risk,green
+15,Province 2,Saptari,707568,195,3438,614,2824,6.9050991501416,0.75,178,87,89.175,178,-88.825,0,1.78,0.67,2.7559188657486002,0.75,direct movement to India,1.0,0.634,high risk,light red
+16,Province 2,Siraha,700665,162,2346,608,1738,9.3210586881473,0.75,95,102,104.55,95,9.55,1,4.48,1.0,2.3120892295177002,0.75,direct movement to India,1.0,0.9,very high risk,deep red
+17,Province 2,Dhanusa,838084,307,3611,753,2858,10.74177746676,1.0,127,172,176.3,127,49.3,1,1.13,0.33,3.6631173008911,0.75,direct movement to India,1.0,0.8160000000000001,very high risk,deep red
+18,Province 2,Mahottari,705838,539,2939,901,2038,26.447497546614,1.0,181,394,403.85,181,222.85,1,1.78,0.67,7.6363131483428,1.0,direct movement to India,1.0,0.934,very high risk,deep red
+19,Province 2,Sarlahi,888986,616,4612,800,3812,16.159496327387,1.0,285,223,228.575,285,-56.425,0,1.35,0.33,6.9292429802044,1.0,direct movement to India,1.0,0.666,high risk,light red
+20,Province 2,Rautahat,835944,1159,11791,3005,8786,13.19144092875,1.0,441,705,722.625,441,281.625,1,1.03,0.33,13.864565090485,1.0,direct movement to India,1.0,0.866,very high risk,deep red
+21,Province 2,Bara,822555,108,3018,453,2565,4.2105263157895,0.5,131,27,27.675,131,-103.325,0,0.8300000000000001,0.33,1.3129821106187,0.5,direct movement to India,1.0,0.466,moderate risk,yellow
+22,Province 2,Parsa,709867,158,6063,612,5451,2.8985507246377002,0.5,133,35,35.875,133,-97.125,0,1.01,0.33,2.2257690525127,0.75,direct movement to India,1.0,0.516,high risk,light red
+23,Bagmati,Kathmandu,2214130,41,3780,,3780,1.0846560846561,0.25,256,18,18.45,256,-237.55,0,3.6,0.5,0.18517431225809,0.25,High movement,1.0,0.4,moderate risk,yellow
+24,Bagmati,Lalitpur,567905,6,1958,,1958,0.30643513789581,0.25,217,4,4.1,217,-212.9,0,N/A,0.5,0.10565147339784,0.25,High movement,1.0,0.4,moderate risk,yellow
+25,Bagmati,Bhaktapur,366497,16,1535,,1535,1.042345276873,0.25,42,15,15.375,42,-26.625,0,N/A,0.5,0.43656564719493,0.5,moderate movement,1.0,0.45,moderate risk,yellow
+26,Bagmati,Rasuwa,44977,0,32,,32,0,0.25,35,0,0.0,35,-35.0,0,N/A,0.5,0.0,0.25,mountain and very low moovement,0.25,0.25,low risk,green
+27,Bagmati,Nuwakot,287092,12,480,,480,2.5,0.5,26,6,6.15,26,-19.85,0,1.08,0.33,0.41798447884302,0.5,hill and low movement,0.5,0.366,low risk,green
+28,Bagmati,Dhading,353434,118,817,,817,14.443084455324,1.0,100,93,95.325,100,-4.675,0,18,1.0,3.3386714351194,0.75,hill and low movement,0.5,0.65,high risk,light red
+29,Bagmati,Chitawan,691674,45,2249,,2249,2.0008892841263,0.5,302,17,17.425,302,-284.575,0,1.05,0.33,0.65059551175843,0.5,direct movement to India,1.0,0.466,moderate risk,yellow
+30,Bagmati,Sindhuli,310406,8,474,,474,1.6877637130802001,0.5,32,4,4.1,32,-27.9,0,N/A,0.5,0.25772697692699,0.25,hill and low movement,0.5,0.35000000000000003,low risk,green
+31,Bagmati,Makwanpur,460084,14,816,,816,1.7156862745098,0.5,35,8,8.2,35,-26.8,0,N/A,0.5,0.30429225967432,0.25,hill and low movement,0.5,0.35000000000000003,low risk,green
+32,Bagmati,Ramechhap,208547,26,339,,339,7.669616519174,0.75,71,9,9.225,71,-61.775,0,N/A,0.5,1.2467213625705,0.5,hill and low movement,0.5,0.45,moderate risk,yellow
+33,Bagmati,Dolakha,187120,2,188,,188,1.063829787234,0.25,41,0,0.0,41,-41.0,0,N/A,0.5,0.10688328345447,0.25,mountain and very low moovement,0.25,0.25,low risk,green
+34,Bagmati,Kavrepalanchok,401643,6,416,,416,1.4423076923077,0.5,13,0,0.0,13,-13.0,0,N/A,0.5,0.14938639538097,0.25,hill and low movement,0.5,0.35000000000000003,low risk,green
+35,Bagmati,Sindhupalchok,294123,28,572,,572,4.8951048951049,0.75,68,23,23.575,68,-44.425,0,3.36,1.0,0.95198267391533,0.5,mountain and very low moovement,0.25,0.5,high risk,light red
+36,Gandaki,Mustang,11587,1,,,,,0.25,4,1,1.025,4,-2.975,0,N/A,0.5,0.86303616121515,0.5,mountain and very low moovement,0.25,0.30000000000000004,low risk,green
+37,Gandaki,Manang,6330,1,,,,,0.25,7,1,1.025,7,-5.975,0,N/A,0.5,1.5797788309637,0.5,mountain and very low moovement,0.25,0.30000000000000004,low risk,green
+38,Gandaki,Myagdi,111082,8,,,,,0.25,20,11,11.275,20,-8.725,0,4,1.0,0.72018868943663,0.5,hill and low movement,0.5,0.45,moderate risk,yellow
+39,Gandaki,Baglung,282993,131,,,,,0.25,123,30,30.75,123,-92.25,0,1.79,0.67,4.6290897654712,0.75,hill and low movement,0.5,0.434,moderate risk,yellow
+40,Gandaki,Parbat,148392,67,,,,,0.25,75,61,62.525,75,-12.475,0,1.5,0.67,4.5150681977465,0.75,hill and low movement,0.5,0.434,moderate risk,yellow
+41,Gandaki,Syangja,253089,144,,,,,0.25,110,114,116.85,110,6.85,1,2.31,0.67,5.6896980903951,1.0,hill and low movement,0.5,0.684,high risk,light red
+42,Gandaki,Tanahu,345297,91,,,,,0.25,43,98,100.45,43,57.45,1,2.5,1.0,2.6354124130821,0.75,hill and low movement,0.5,0.7000000000000001,high risk,light red
+43,Gandaki,Nawalparasi East,350820,182,,,,,0.25,135,150,153.75,135,18.75,1,2.66,0.67,5.1878456188359,1.0,direct movement to India,1.0,0.784,high risk,light red
+44,Gandaki,Gorkha,247845,76,,,,,0.25,124,66,67.65,124,-56.35,0,5.78,1.0,3.0664326494382,0.75,hill and low movement,0.5,0.5,high risk,light red
+45,Gandaki,Kaski,581962,25,,,,,0.25,25,30,30.75,25,5.75,1,4.08,1.0,0.42958131286923,0.5,moderate movement,0.75,0.7000000000000001,high risk,light red
+46,Gandaki,Lamjung,171739,6,,,,,0.25,45,12,12.3,45,-32.7,0,N/A,0.5,0.34936735394989,0.25,hill and low movement,0.5,0.30000000000000004,low risk,green
+47,Province 5,Banke,601876,344,6071,378,5693,6.0425083435798,0.75,330,60,61.5,330,-268.5,0,0.54,0.33,5.7154629857313,1.0,direct movement to India,1.0,0.616,high risk,light red
+48,Province 5,Bardiya,477666,153,2784,542,2242,6.8242640499554,0.75,241,100,102.5,241,-138.5,0,1.05,0.33,3.2030749519539,0.75,direct movement to India,1.0,0.5660000000000001,high risk,light red
+49,Province 5,Kapilbastu,664674,705,6811,738,6073,11.608760085625,1.0,758,87,89.175,758,-668.825,0,0.51,0.33,10.606703436572,1.0,direct movement to India,1.0,0.666,very high risk,deep red
+50,Province 5,Arghakhanchi,202283,250,1606,731,875,28.571428571429,1.0,185,214,219.35,185,34.35,1,7,1.0,12.358922895152,1.0,hill and low movement,0.5,0.9,very high risk,deep red
+51,Province 5,Rupandehi,1058940,274,2178,186,1992,13.755020080321,1.0,576,112,114.8,576,-461.2,0,0.8300000000000001,0.33,2.5874931535309003,0.75,direct movement to India,1.0,0.616,high risk,light red
+52,Province 5,Palpa,248875,231,2257,1338,919,25.136017410229,1.0,212,346,354.65,212,142.65,1,3.5,1.0,9.2817679558011,1.0,hill and low movement,0.5,0.9,very high risk,deep red
+53,Province 5,Gulmi,257266,236,1139,446,693,34.054834054834,1.0,212,234,239.85,212,27.85,1,16.33,1.0,9.1733847457495,1.0,hill and low movement,0.5,0.9,very high risk,deep red
+54,Province 5,Nawalparasi West,373380,80,1389,189,1200,6.6666666666667,0.75,103,43,44.075,103,-58.925,0,3.1,0.67,2.1425893191922,0.75,direct movement to India,1.0,0.634,high risk,light red
+55,Province 5,Dang,644563,315,8539,3186,5353,5.8845507192229,0.75,329,298,305.45,329,-23.55,0,2.32,0.67,4.8870319891151,1.0,moderate movement,0.75,0.634,high risk,light red
+56,Province 5,Rolpa,237240,44,1205,198,1007,4.369414101291,0.75,47,27,27.675,47,-19.325,0,0.42,0.33,1.8546619457090001,0.75,hill and low movement,0.5,0.466,high risk,light red
+57,Province 5,Rukum East,58126,3,272,132,140,2.1428571428571,0.5,5,1,1.025,5,-3.975,0,N/A,0.5,0.51612015277157,0.5,hill and low movement,0.5,0.4,moderate risk,yellow
+58,Province 5,Pyuthan,241751,174,1549,585,964,18.04979253112,1.0,121,170,174.25,121,53.25,1,3.83,1.0,7.1974883247639,1.0,hill and low movement,0.5,0.9,very high risk,deep red
+59,Karnali,Dolpa,42111,1,659,,659,0.15174506828528,0.25,8,1,1.025,8,-6.975,0,N/A,0.5,0.23746764503336,0.25,mountain and very low moovement,0.25,0.25,low risk,green
+60,Karnali,Mugu,63636,1,1032,,1032,0.09689922480620201,0.25,11,0,0.0,11,-11.0,0,N/A,0.5,0.15714375510717,0.25,mountain and very low moovement,0.25,0.25,low risk,green
+61,Karnali,Humla,58468,2,2316,,2316,0.08635578583765101,0.25,16,1,1.025,16,-14.975,0,N/A,0.5,0.34206745570226,0.25,mountain and very low moovement,0.25,0.25,low risk,green
+62,Karnali,Jumla,124503,26,3286,,3286,0.79123554473524,0.25,120,9,9.225,120,-110.775,0,3.03,0.67,2.0883030930982,0.75,hill and low movement,0.5,0.434,moderate risk,yellow
+63,Karnali,Kalikot,158482,43,2910,,2910,1.4776632302405,0.5,61,19,19.475,61,-41.525,0,1.71,0.67,2.7132418823589,0.75,hill and low movement,0.5,0.484,high risk,light red
+64,Karnali,Dailekh,296147,748,3930,,3930,19.033078880407,1.0,368,330,338.25,368,-29.75,0,0.6900000000000001,0.33,25.25772673706,1.0,hill and low movement,0.5,0.5660000000000001,high risk,light red
+65,Karnali,Jajarkot,197353,9,2035,,2035,0.44226044226044,0.25,6,2,2.05,6,-3.95,0,N/A,0.5,0.45603563158401,0.5,hill and low movement,0.5,0.35000000000000003,low risk,green
+66,Karnali,Rukum West,169732,2,1802,,1802,0.11098779134295,0.25,95,2,2.05,95,-92.95,0,N/A,0.5,0.11783281879669,0.25,hill and low movement,0.5,0.30000000000000004,low risk,green
+67,Karnali,Salyan,271187,175,1171,,1171,14.944491887276,1.0,22,37,37.925,22,15.925,1,0.49,0.33,6.4531116904571,1.0,hill and low movement,0.5,0.766,high risk,light red
+68,Karnali,Surkhet,415203,323,3483,,3483,9.2736146999713,0.75,310,236,241.9,310,-68.1,0,1.3900000000000001,0.67,7.7793272206607,1.0,moderate movement,0.75,0.634,high risk,light red
+69,Sudurpaschim,Achham,286539,83,1670,,1670,4.9700598802395,0.75,30,103,105.575,30,75.575,1,18.97,1.0,2.8966388519538,0.75,hill and low movement,0.5,0.8,very high risk,deep red
+70,Sudurpaschim,Baitadi,265690,154,1396,,1396,11.031518624642,1.0,8,155,158.875,8,150.875,1,N/A,0.5,5.7962286875682,1.0,direct movement to India,1.0,0.9,very high risk,deep red
+71,Sudurpaschim,Bajhang,220871,44,858,,858,5.1282051282051,0.75,35,52,53.3,35,18.3,1,3.16,1.0,1.9921130433602001,0.75,hill and low movement,0.5,0.8,high risk,light red
+72,Sudurpaschim,Bajura,154637,90,1025,,1025,8.780487804878,0.75,14,85,87.125,14,73.125,1,3.15,1.0,5.8200818691516,1.0,hill and low movement,0.5,0.85,very high risk,deep red
+73,Sudurpaschim,Dadeldhura,157782,204,1764,,1764,11.56462585034,1.0,48,201,206.025,48,158.025,1,6.01,1.0,12.92923147127,1.0,hill and low movement,0.5,0.9,very high risk,deep red
+74,Sudurpaschim,Darchula,144026,12,1031,,1031,1.1639185257032,0.25,17,1,1.025,17,-15.975,0,N/A,0.5,0.83318289753239,0.5,direct movement to India,1.0,0.45,moderate risk,yellow
+75,Sudurpaschim,Doti,213535,148,1347,,1347,10.987379361544,1.0,13,190,194.75,13,181.75,1,N/A,0.5,6.9309480881354,1.0,hill and low movement,0.5,0.8,very high risk,deep red
+76,Sudurpaschim,Kailali,941430,328,5906,,5906,5.553674229597,0.75,153,410,420.25,153,267.25,1,2.69,0.67,3.4840614809386,0.75,direct movement to India,1.0,0.834,very high risk,deep red
+77,Sudurpaschim,Kanchanpur,525987,112,1949,,1949,5.7465366854797,0.75,46,224,229.6,46,183.6,1,2.45,0.67,2.1293301925713,0.75,direct movement to India,1.0,0.834,very high risk,deep red
