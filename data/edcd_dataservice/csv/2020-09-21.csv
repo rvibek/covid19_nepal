@@ -1,0 +1,78 @@
+Date,Province,District,Total Cases,Recovered,Death,Under Treatment
+2020-09-21,Province 1,Ilam,96,91,0,5
+2020-09-21,Province 1,Udayapur,160,142,1,17
+2020-09-21,Province 1,Okhaldhunga,95,54,0,41
+2020-09-21,Province 1,Khotang,51,45,0,6
+2020-09-21,Province 1,Jhapa,810,714,5,91
+2020-09-21,Province 1,Taplejung,21,19,0,2
+2020-09-21,Province 1,Terhathum,31,29,0,2
+2020-09-21,Province 1,Dhankuta,56,45,0,11
+2020-09-21,Province 1,Panchthar,34,27,0,7
+2020-09-21,Province 1,Bhojpur,35,16,0,19
+2020-09-21,Province 1,Morang,2828,1907,29,892
+2020-09-21,Province 1,Sankhuwasabha,79,46,0,33
+2020-09-21,Province 1,Sunsari,1556,1088,10,458
+2020-09-21,Province 1,Solukhumbu,14,14,0,0
+2020-09-21,Province 2,Dhanusa,1908,1793,17,98
+2020-09-21,Province 2,Parsa,2649,2520,45,84
+2020-09-21,Province 2,Bara,1440,1155,17,268
+2020-09-21,Province 2,Mahottari,1452,1418,12,22
+2020-09-21,Province 2,Rautahat,2106,1900,7,199
+2020-09-21,Province 2,Saptari,1174,885,8,281
+2020-09-21,Province 2,Sarlahi,2327,2119,7,201
+2020-09-21,Province 2,Siraha,1278,599,9,670
+2020-09-21,Bagmati,Kathmandu,14150,6912,79,7159
+2020-09-21,Bagmati,Kavrepalanchok,430,292,4,134
+2020-09-21,Bagmati,Chitawan,1699,1060,18,621
+2020-09-21,Bagmati,Dolakha,119,85,4,30
+2020-09-21,Bagmati,Dhading,406,282,2,122
+2020-09-21,Bagmati,Nuwakot,142,97,0,45
+2020-09-21,Bagmati,Bhaktapur,1533,724,17,792
+2020-09-21,Bagmati,Makwanpur,1238,688,11,539
+2020-09-21,Bagmati,Rasuwa,18,17,1,0
+2020-09-21,Bagmati,Ramechhap,137,94,0,43
+2020-09-21,Bagmati,Lalitpur,1609,938,16,655
+2020-09-21,Bagmati,Sindhupalchok,141,115,5,21
+2020-09-21,Bagmati,Sindhuli,110,92,0,18
+2020-09-21,Gandaki,Kaski,872,503,11,358
+2020-09-21,Gandaki,Gorkha,349,253,5,91
+2020-09-21,Gandaki,Tanahu,399,337,4,58
+2020-09-21,Gandaki,Nawalparasi East,832,572,1,259
+2020-09-21,Gandaki,Parbat,125,116,0,9
+2020-09-21,Gandaki,Manang,4,3,0,1
+2020-09-21,Gandaki,Mustang,1,1,0,0
+2020-09-21,Gandaki,Myagdi,52,51,1,0
+2020-09-21,Gandaki,Lamjung,373,286,0,87
+2020-09-21,Gandaki,Baglung,348,321,1,26
+2020-09-21,Gandaki,Syangja,406,352,3,51
+2020-09-21,Province 5,Arghakhanchi,435,396,2,37
+2020-09-21,Province 5,Kapilbastu,1310,1147,9,154
+2020-09-21,Province 5,Gulmi,491,439,3,49
+2020-09-21,Province 5,Dang,1059,807,1,251
+2020-09-21,Province 5,Nawalparasi West,484,280,7,49
+2020-09-21,Province 5,Palpa,729,631,4,94
+2020-09-21,Province 5,Pyuthan,521,465,2,54
+2020-09-21,Province 5,Bardiya,574,428,1,145
+2020-09-21,Province 5,Banke,1615,1342,11,262
+2020-09-21,Province 5,Rukum East,49,27,0,22
+2020-09-21,Province 5,Rupandehi,2089,1385,21,683
+2020-09-21,Province 5,Rolpa,118,90,0,28
+2020-09-21,Karnali,Kalikot,118,116,0,2
+2020-09-21,Karnali,Jajarkot,72,62,0,10
+2020-09-21,Karnali,Jumla,225,207,0,18
+2020-09-21,Karnali,Dolpa,6,5,1,0
+2020-09-21,Karnali,Dailekh,1102,1077,1,24
+2020-09-21,Karnali,Mugu,13,13,0,0
+2020-09-21,Karnali,Rukum West,109,77,0,32
+2020-09-21,Karnali,Salyan,380,335,0,45
+2020-09-21,Karnali,Surkhet,1177,833,3,341
+2020-09-21,Karnali,Humla,5,5,0,0
+2020-09-21,Sudurpaschim,Achham,994,935,2,57
+2020-09-21,Sudurpaschim,Kanchanpur,775,716,0,59
+2020-09-21,Sudurpaschim,Kailali,2110,1734,7,369
+2020-09-21,Sudurpaschim,Dadeldhura,348,335,0,13
+2020-09-21,Sudurpaschim,Doti,1026,1004,0,22
+2020-09-21,Sudurpaschim,Darchula,87,60,0,27
+2020-09-21,Sudurpaschim,Bajhang,519,473,1,45
+2020-09-21,Sudurpaschim,Bajura,630,624,1,5
+2020-09-21,Sudurpaschim,Baitadi,413,373,0,40

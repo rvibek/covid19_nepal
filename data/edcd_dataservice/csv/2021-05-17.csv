@@ -1,0 +1,78 @@
+Date,Province,District,Total Cases,Recovered,Death,Under Treatment
+2021-05-17,Province 1,Ilam,685,505,19,161
+2021-05-17,Province 1,Udayapur,950,715,29,206
+2021-05-17,Province 1,Okhaldhunga,460,314,15,131
+2021-05-17,Province 1,Khotang,338,252,8,78
+2021-05-17,Province 1,Jhapa,8452,5756,125,2571
+2021-05-17,Province 1,Taplejung,461,190,2,269
+2021-05-17,Province 1,Terhathum,269,169,7,93
+2021-05-17,Province 1,Dhankuta,540,308,18,214
+2021-05-17,Province 1,Panchthar,261,197,7,57
+2021-05-17,Province 1,Bhojpur,284,178,14,92
+2021-05-17,Province 1,Morang,19837,15106,201,4530
+2021-05-17,Province 1,Sankhuwasabha,671,438,7,226
+2021-05-17,Province 1,Sunsari,11783,9815,180,1788
+2021-05-17,Province 1,Solukhumbu,308,206,9,93
+2021-05-17,Province 2,Dhanusa,5808,3739,55,2014
+2021-05-17,Province 2,Parsa,6726,5074,116,1536
+2021-05-17,Province 2,Bara,3080,2478,66,536
+2021-05-17,Province 2,Mahottari,3264,2280,26,958
+2021-05-17,Province 2,Rautahat,3769,3009,39,721
+2021-05-17,Province 2,Saptari,2922,2231,59,632
+2021-05-17,Province 2,Sarlahi,3340,2965,44,331
+2021-05-17,Province 2,Siraha,2867,2406,43,418
+2021-05-17,Bagmati,Kathmandu,165364,135648,1189,28527
+2021-05-17,Bagmati,Kavrepalanchok,5992,4109,102,1781
+2021-05-17,Bagmati,Chitawan,12713,9614,141,2958
+2021-05-17,Bagmati,Dolakha,1086,842,46,198
+2021-05-17,Bagmati,Dhading,3011,2103,43,865
+2021-05-17,Bagmati,Nuwakot,2866,1945,37,884
+2021-05-17,Bagmati,Bhaktapur,16840,11529,235,5076
+2021-05-17,Bagmati,Makwanpur,6691,4980,81,1630
+2021-05-17,Bagmati,Rasuwa,534,283,5,246
+2021-05-17,Bagmati,Ramechhap,1163,647,30,486
+2021-05-17,Bagmati,Lalitpur,28217,20728,318,7171
+2021-05-17,Bagmati,Sindhupalchok,1897,1172,36,689
+2021-05-17,Bagmati,Sindhuli,1392,739,20,633
+2021-05-17,Gandaki,Kaski,15066,10601,203,4262
+2021-05-17,Gandaki,Gorkha,2663,1781,43,839
+2021-05-17,Gandaki,Tanahu,2620,2033,65,522
+2021-05-17,Gandaki,Nawalparasi East,4143,3334,44,765
+2021-05-17,Gandaki,Parbat,930,597,12,321
+2021-05-17,Gandaki,Manang,58,15,2,41
+2021-05-17,Gandaki,Mustang,112,48,3,61
+2021-05-17,Gandaki,Myagdi,861,416,18,427
+2021-05-17,Gandaki,Lamjung,1537,1238,19,280
+2021-05-17,Gandaki,Baglung,1712,1504,27,181
+2021-05-17,Gandaki,Syangja,1955,1356,66,533
+2021-05-17,Province 5,Arghakhanchi,1789,1252,27,510
+2021-05-17,Province 5,Kapilbastu,3483,2660,56,767
+2021-05-17,Province 5,Gulmi,1900,1395,34,471
+2021-05-17,Province 5,Dang,9720,5990,143,3587
+2021-05-17,Province 5,Nawalparasi West,2813,1846,64,903
+2021-05-17,Province 5,Palpa,4156,2786,51,1319
+2021-05-17,Province 5,Pyuthan,1306,1147,28,131
+2021-05-17,Province 5,Bardiya,3872,2438,55,1379
+2021-05-17,Province 5,Banke,15664,10376,142,5146
+2021-05-17,Province 5,Rukum East,168,141,7,20
+2021-05-17,Province 5,Rupandehi,23264,14161,346,8757
+2021-05-17,Province 5,Rolpa,686,389,13,284
+2021-05-17,Karnali,Kalikot,464,313,5,146
+2021-05-17,Karnali,Jajarkot,463,152,1,310
+2021-05-17,Karnali,Jumla,691,537,2,152
+2021-05-17,Karnali,Dolpa,81,60,2,19
+2021-05-17,Karnali,Dailekh,2223,1746,21,456
+2021-05-17,Karnali,Mugu,54,43,1,10
+2021-05-17,Karnali,Rukum West,513,274,10,229
+2021-05-17,Karnali,Salyan,1279,762,26,491
+2021-05-17,Karnali,Surkhet,6936,3974,58,2904
+2021-05-17,Karnali,Humla,70,50,1,19
+2021-05-17,Sudurpaschim,Achham,2445,1811,10,624
+2021-05-17,Sudurpaschim,Kanchanpur,4042,2463,67,1512
+2021-05-17,Sudurpaschim,Kailali,11986,7548,125,4313
+2021-05-17,Sudurpaschim,Dadeldhura,1398,909,6,483
+2021-05-17,Sudurpaschim,Doti,1946,1556,9,381
+2021-05-17,Sudurpaschim,Darchula,592,415,10,167
+2021-05-17,Sudurpaschim,Bajhang,1138,1103,8,27
+2021-05-17,Sudurpaschim,Bajura,760,734,6,20
+2021-05-17,Sudurpaschim,Baitadi,1818,899,7,912
